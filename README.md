@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I build Telegram bots and tools — from fully serverless inline bots to C firmware for tiny gadgets.
+Automation.
 
 [![Telegram](https://img.shields.io/badge/-@KushaIka-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/KushaIka)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
